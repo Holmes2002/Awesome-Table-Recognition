@@ -1,5 +1,5 @@
 # Awesome-Table-Recognition
-Original Code is Lore[https://github.com/AlibabaResearch/AdvancedLiterateMachinery/tree/main/DocumentUnderstanding/LORE-TSR]
+Original Code is [Lore](https://github.com/AlibabaResearch/AdvancedLiterateMachinery/tree/main/DocumentUnderstanding/LORE-TSR)
 I modified this code with faster inference and higher accuracy by removing locations regression and add a simple and efficient postprocess
 
 ### Install 
@@ -34,7 +34,7 @@ python inference.py
 ```
 ### Result
 #### Table Sample
-![Table Sample](sample/table_1.png)
+![Table Sample](samples/table_1.png)
 
 #### Result Sample
-![Result Sample](sample/result_1.png)
+![Result Sample](samples/result_1.png)
